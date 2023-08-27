@@ -2,7 +2,7 @@
 Olá, sou Christian Silvério Miguel e sempre gostei de TI desde meus 6 anos de idade montando o meu próprio e PC e pesquisando sobre tecnologia no mundo!<br><br>
 
 🔭 Hoje estou estudando na SPtech School no curso de Sistemas da Informação (SIS).<br>
-🌱 Estou sempre correndo atrás de conhecimento seja ele díficil ou fácil.<br>
+🌱 Estou sempre correndo atrás de conhecimento seja ele fácil ou difícil.<br>
 💬 Por via das dúvidas estou sempre estudando.
 
 <h2> Sobre mim </h2>
