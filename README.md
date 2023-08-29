@@ -3,7 +3,8 @@ Olá, sou Christian Silvério Miguel e sempre gostei de TI desde meus 6 anos de 
 
 🔭 Hoje estou estudando na SPtech School no curso de Sistemas da Informação (SIS).<br>
 🌱 Estou sempre correndo atrás de conhecimento seja ele fácil ou difícil.<br>
-💬 Por via das dúvidas estou sempre estudando.
+💬 Por via das dúvidas estou sempre estudando.<br>
+- Contate-me: christianbellei84@gmail.com
 
 <h2> Sobre mim </h2>
 
